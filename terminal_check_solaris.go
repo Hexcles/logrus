@@ -1,3 +1,6 @@
+// +build solaris
+// +build !appengine
+
 package logrus
 
 import (
